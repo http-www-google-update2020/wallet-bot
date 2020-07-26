@@ -1,0 +1,6 @@
+{
+  "type" : "setStorageGroup",
+  "targets" : [
+    "root.ln.wf01.wt01"
+  ]
+}

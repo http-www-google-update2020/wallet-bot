@@ -1,0 +1,20 @@
+{
+  "type" : "createTimeSeries",
+  "targets" : [
+    {
+      "target": "root.ln.wf01.wt01.status",
+      "datatype": "BOOLEAN",
+      "encoding": "PLAIN"
+    },
+    {
+      "target": "root.ln.wf01.wt01.temperature",
+      "datatype": "FLOAT",
+      "encoding": "PLAIN"
+    },
+    {
+      "target": "root.ln.wf01.wt01.hardware",
+      "datatype": "INT32",
+      "encoding": "PLAIN"
+    }
+  ]
+}
